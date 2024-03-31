@@ -91,6 +91,3 @@ Calling `--help` on each command provides specific and useful information about 
 - 0.1.0
   - A work in progress
 
-## About the Author
-
-Leodanis Pozo Ramos - Email: leodanis@realpython.com
